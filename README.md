@@ -9,4 +9,3 @@ in other words, it used naive-bayes method to detect if a email or message is sp
 Spam is any kind of unwanted, unsolicited digital communication that gets sent out in bulk. 
 Often spam is sent via email, but it can also be distributed via text messages, phone calls, or social media.
 
-dataset downloaded from kaggle. https://www.kaggle.com/datasets/mfaisalqureshi/spam-email?resource=download
